@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ahuda/.dotnet/store/|arch|/|tfm|",
+      "/Users/ahuda/.nuget/packages"
+    ]
+  }
+}
